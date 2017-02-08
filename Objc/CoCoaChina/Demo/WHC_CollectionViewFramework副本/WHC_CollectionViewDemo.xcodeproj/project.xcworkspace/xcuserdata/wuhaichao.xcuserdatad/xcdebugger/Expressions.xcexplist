@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "WHC_MenuView.(layoutUI in _49CDEA3AE2825729890E7397A2C2A709)() -&gt; ():WHC_MenuView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.menuItemTitles">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WHC_MenuView.(createGridViewLayout in _49CDEA3AE2825729890E7397A2C2A709)() -&gt; ():WHC_MenuView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.menuItemImageNames">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WHCRefreshView.updateProgressValue(CGFloat) -&gt; ():WHC_Refresh.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "refreshState">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WHC_MenuView.WHCMenuItemClickDelete(WHC_MenuItem) -&gt; ():WHC_MenuView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.menuViewParam.canAdd">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WHC_MenuView.(initData in _49CDEA3AE2825729890E7397A2C2A709)() -&gt; ():WHC_MenuView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.menuViewParam">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WHC_MenuView.WHCMenuItemClick(WHC_MenuItem, title : String, index : Int) -&gt; ():WHC_MenuView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.deletedMenuItemImageNames">
+            </PersistentString>
+            <PersistentString
+               value = "self.deletedMenuItemTitles">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WHC_ImageDisplayView.(layoutUI in _6FE149305B5020FFC91382CEBD423407)() -&gt; ():WHC_ImageDisplayView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.images">
+            </PersistentString>
+            <PersistentString
+               value = "self.currentIndex">
+            </PersistentString>
+            <PersistentString
+               value = "self.currentImageView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UIScrollView.(setInitEdgeWithView in _415326965BBC634310F45D26C7B19A42)(WHCRefreshView!) -&gt; ():WHC_Refresh.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "refreshView.refreshState">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WHCRefreshView.startRefresh() -&gt; ():WHC_Refresh.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "refreshState">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WHC_MenuView.saveInsertedMenuItemState() -&gt; ():WHC_MenuView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.deletedMenuItemTitles">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

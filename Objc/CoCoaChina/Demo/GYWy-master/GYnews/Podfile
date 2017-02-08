@@ -1,0 +1,7 @@
+platform :ios, '6.1'
+pod 'SDWebImage', '~>3.7'
+pod 'MJRefresh'
+pod 'MJExtension'
+pod 'iCarousel'
+pod 'AFNetworking'
+pod 'Masonry'
